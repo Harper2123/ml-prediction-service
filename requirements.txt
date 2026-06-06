@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+fastapi
+uvicorn
+pydantic
+joblib
+pytest
+python-dotenv
+jupyter
+ipykernel
